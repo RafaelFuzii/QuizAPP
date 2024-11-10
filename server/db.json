@@ -1,0 +1,49 @@
+{
+  "quizzes": [
+    {
+      "id": "1",
+      "title": "Flutter Avançado",
+      "questions": [
+        {
+          "id": 1,
+          "text": "O que é Flutter?",
+          "options": [
+            "SDK",
+            "Linguagem de Programação",
+            "Framework",
+            "Biblioteca"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "id": 2,
+          "text": "Qual linguagem o Flutter usa?",
+          "options": [
+            "JavaScript",
+            "Dart",
+            "Python",
+            "Java"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "id": 1731102661024,
+      "title": "O que eu gosto de comer",
+      "questions": [
+        {
+          "id": 1,
+          "text": "comida",
+          "options": [
+            "lasanha",
+            "macarrao",
+            "picanha",
+            "minha muie"
+          ],
+          "correctAnswerIndex": 3
+        }
+      ]
+    }
+  ]
+}
